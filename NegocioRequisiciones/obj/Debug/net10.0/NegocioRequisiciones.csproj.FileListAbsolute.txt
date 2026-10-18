@@ -1,0 +1,15 @@
+C:\Users\hero1\Downloads\Primer_Parcial_Requisiciones_corregido\Primer Parcial Requisiciones\NegocioRequisiciones\bin\Debug\net10.0\NegocioRequisiciones.deps.json
+C:\Users\hero1\Downloads\Primer_Parcial_Requisiciones_corregido\Primer Parcial Requisiciones\NegocioRequisiciones\bin\Debug\net10.0\NegocioRequisiciones.dll
+C:\Users\hero1\Downloads\Primer_Parcial_Requisiciones_corregido\Primer Parcial Requisiciones\NegocioRequisiciones\bin\Debug\net10.0\NegocioRequisiciones.pdb
+C:\Users\hero1\Downloads\Primer_Parcial_Requisiciones_corregido\Primer Parcial Requisiciones\NegocioRequisiciones\bin\Debug\net10.0\DatosRequisiciones.dll
+C:\Users\hero1\Downloads\Primer_Parcial_Requisiciones_corregido\Primer Parcial Requisiciones\NegocioRequisiciones\bin\Debug\net10.0\DatosRequisiciones.pdb
+C:\Users\hero1\Downloads\Primer_Parcial_Requisiciones_corregido\Primer Parcial Requisiciones\NegocioRequisiciones\obj\Debug\net10.0\NegocioRequisiciones.csproj.AssemblyReference.cache
+C:\Users\hero1\Downloads\Primer_Parcial_Requisiciones_corregido\Primer Parcial Requisiciones\NegocioRequisiciones\obj\Debug\net10.0\NegocioRequisiciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hero1\Downloads\Primer_Parcial_Requisiciones_corregido\Primer Parcial Requisiciones\NegocioRequisiciones\obj\Debug\net10.0\NegocioRequisiciones.AssemblyInfoInputs.cache
+C:\Users\hero1\Downloads\Primer_Parcial_Requisiciones_corregido\Primer Parcial Requisiciones\NegocioRequisiciones\obj\Debug\net10.0\NegocioRequisiciones.AssemblyInfo.cs
+C:\Users\hero1\Downloads\Primer_Parcial_Requisiciones_corregido\Primer Parcial Requisiciones\NegocioRequisiciones\obj\Debug\net10.0\NegocioRequisiciones.csproj.CoreCompileInputs.cache
+C:\Users\hero1\Downloads\Primer_Parcial_Requisiciones_corregido\Primer Parcial Requisiciones\NegocioRequisiciones\obj\Debug\net10.0\NegocioR.AEABB796.Up2Date
+C:\Users\hero1\Downloads\Primer_Parcial_Requisiciones_corregido\Primer Parcial Requisiciones\NegocioRequisiciones\obj\Debug\net10.0\NegocioRequisiciones.dll
+C:\Users\hero1\Downloads\Primer_Parcial_Requisiciones_corregido\Primer Parcial Requisiciones\NegocioRequisiciones\obj\Debug\net10.0\refint\NegocioRequisiciones.dll
+C:\Users\hero1\Downloads\Primer_Parcial_Requisiciones_corregido\Primer Parcial Requisiciones\NegocioRequisiciones\obj\Debug\net10.0\NegocioRequisiciones.pdb
+C:\Users\hero1\Downloads\Primer_Parcial_Requisiciones_corregido\Primer Parcial Requisiciones\NegocioRequisiciones\obj\Debug\net10.0\ref\NegocioRequisiciones.dll

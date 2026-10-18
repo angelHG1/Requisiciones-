@@ -1,0 +1,13 @@
+C:\Users\hero1\Downloads\Primer_Parcial_Requisiciones_corregido\Primer Parcial Requisiciones\DatosRequisiciones\bin\Debug\net10.0\DatosRequisiciones.deps.json
+C:\Users\hero1\Downloads\Primer_Parcial_Requisiciones_corregido\Primer Parcial Requisiciones\DatosRequisiciones\bin\Debug\net10.0\DatosRequisiciones.dll
+C:\Users\hero1\Downloads\Primer_Parcial_Requisiciones_corregido\Primer Parcial Requisiciones\DatosRequisiciones\bin\Debug\net10.0\DatosRequisiciones.pdb
+C:\Users\hero1\Downloads\Primer_Parcial_Requisiciones_corregido\Primer Parcial Requisiciones\DatosRequisiciones\obj\Debug\net10.0\DatosRequisiciones.csproj.AssemblyReference.cache
+C:\Users\hero1\Downloads\Primer_Parcial_Requisiciones_corregido\Primer Parcial Requisiciones\DatosRequisiciones\obj\Debug\net10.0\DatosRequisiciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hero1\Downloads\Primer_Parcial_Requisiciones_corregido\Primer Parcial Requisiciones\DatosRequisiciones\obj\Debug\net10.0\DatosRequisiciones.AssemblyInfoInputs.cache
+C:\Users\hero1\Downloads\Primer_Parcial_Requisiciones_corregido\Primer Parcial Requisiciones\DatosRequisiciones\obj\Debug\net10.0\DatosRequisiciones.AssemblyInfo.cs
+C:\Users\hero1\Downloads\Primer_Parcial_Requisiciones_corregido\Primer Parcial Requisiciones\DatosRequisiciones\obj\Debug\net10.0\DatosRequisiciones.csproj.CoreCompileInputs.cache
+C:\Users\hero1\Downloads\Primer_Parcial_Requisiciones_corregido\Primer Parcial Requisiciones\DatosRequisiciones\obj\Debug\net10.0\DatosRequisiciones.dll
+C:\Users\hero1\Downloads\Primer_Parcial_Requisiciones_corregido\Primer Parcial Requisiciones\DatosRequisiciones\obj\Debug\net10.0\refint\DatosRequisiciones.dll
+C:\Users\hero1\Downloads\Primer_Parcial_Requisiciones_corregido\Primer Parcial Requisiciones\DatosRequisiciones\obj\Debug\net10.0\DatosRequisiciones.pdb
+C:\Users\hero1\Downloads\Primer_Parcial_Requisiciones_corregido\Primer Parcial Requisiciones\DatosRequisiciones\obj\Debug\net10.0\ref\DatosRequisiciones.dll
+C:\Users\hero1\Downloads\Primer_Parcial_Requisiciones_corregido\Primer Parcial Requisiciones\DatosRequisiciones\obj\Debug\net10.0\DatosReq.B5C446F7.Up2Date
